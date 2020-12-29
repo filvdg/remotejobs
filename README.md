@@ -1,4 +1,4 @@
-# remotejobs
+# remote jobs
 
 Remotists is our latest project where we focus on remote work 
 We have subscriptions for these topics
